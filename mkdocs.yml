@@ -103,7 +103,7 @@ plugins:
           imports: [README.md]
         - name: kotlingrad
           import_url: https://github.com/breandan/kotlingrad
-          imports: [README.md, src/main/resources/*]
+          imports: [README.md, src/main/resources/*, "*.svg"]
         - name: kaliningraph
           import_url: https://github.com/breandan/galoisenne
           imports: [README.md, latex/figures/*, src/jvmMain/resources/*, "*.png"]
