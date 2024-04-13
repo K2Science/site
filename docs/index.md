@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# The root
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is the beginning of your journey into Kotlin for data.
 
-## Commands
+We know that no categorization is perfect, so we make a choice to go with opinionated categories:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Data Wrangling
+* ML
+* Math
+* Plots
+* Other
 
-## Project layout
+Every category contains multiple projects you might be interested in. 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Also we believe that the search could really help you in solving your tasks, do not hesitate to try it out!
