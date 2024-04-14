@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Kotlin for Data
 theme:
   name: material
   features:
@@ -27,11 +27,11 @@ markdown_extensions:
 
 extra_javascript:
   - javascript/katex.js
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.10/katex.min.js  
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.10/contrib/auto-render.min.js
 
 extra_css:
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.10/katex.min.css
 
 plugins:
   - search
